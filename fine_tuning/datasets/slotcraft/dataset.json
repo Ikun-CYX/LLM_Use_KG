@@ -1,0 +1,27 @@
+[
+    {
+        "instruction": "Slotcraft是什么?",
+        "input": "",
+        "output": "Slotcraft是一个系统，其功能是“用来快速制作slot游戏”。"
+    },
+    {
+        "instruction": "Slotcraft由哪两个主要部分组成?",
+        "input": "",
+        "output": "Slotcraft分为逻辑编辑和client编辑两部分。"
+    },
+    {
+        "instruction": "在Slotcraft的逻辑编辑部分，用户如何进行游戏逻辑的配置?",
+        "input": "",
+        "output": "用户需要通过类似流程图的方式，配置组件的workflow，从而实现对slot游戏逻辑的细节控制。"
+    },
+    {
+        "instruction": "Slotcraft包含哪些大类?",
+        "input": "",
+        "output": "Slotcraft包含的大类包括：初始化转轮类、触发类、特殊逻辑类、reels变化类、symbol变化类、Cascading以及SymbolVals类。"
+    },
+    {
+        "instruction": "Slotcraft中的初始化转轮类是用来做什么的?",
+        "input": "",
+        "output": "初始化转轮类虽然没有直接描述用途，但根据名称推测，这类组件可能用于定义或设置游戏中的转轮初始状态。"
+    }
+]
